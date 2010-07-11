@@ -1,0 +1,13 @@
+<module>
+	<rawname>bulkdialpatterns</rawname>
+	<name>Bulk Dial Patterns</name>
+	<version>1.0alpha1</version>
+	<type>tool</type>
+	<category>System Administration</category>
+	<publisher>Andrew Nagy</publisher>
+	<license>GPLv2</license>
+	 <description>Allows one to insert bulk dial patterns on the outbound routes page for FreePBX v2.8+</description>
+	 <changelog>
+		*1.0alpha* Alpha release
+     </changelog>
+</module>
